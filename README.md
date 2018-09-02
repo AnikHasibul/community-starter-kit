@@ -1,7 +1,5 @@
 # welcome bot: A Probot App
 
-* Welcome the user
-* Be descriptive
 
 ## What it does
 
