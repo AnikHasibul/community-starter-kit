@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+* Welcome the user
+* Be descriptive
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* Nothing
+* Something
+* Everyhing
 
 ## Getting started
 
